@@ -4,4 +4,12 @@ Class A{
 		sysout("A");
 	}
 
+	private void abc(){
+		sysout("Hello");
+	}
+
+	private void xyz(){
+		sysout("XYZ");
+	}
+
 }
